@@ -20,7 +20,7 @@ git clone https://github.com/saayxee/linkly
 cd linkly
 ```
 
-**Install termcolor**  
+**Install dependencies**  
 
 ```bash
 pip install termcolor pyshorteners
